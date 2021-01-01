@@ -1,0 +1,3 @@
+Esto es una nueva forma de empezar
+
+Para ello vamos hacer un primer commit.

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Esto modificando la misma linea.
+=======
+Esto lo midifico por que quiero.
+>>>>>>> newBranch
 
 Esta es mi segunda linea y la he querido modificar en mi sexta linea.
 

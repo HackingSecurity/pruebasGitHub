@@ -1,4 +1,4 @@
-Esto es una nueva forma de empezar y comprender Git.
+Esto lo midifico por que quiero.
 
 Esta es mi segunda linea y la he querido modificar en mi sexta linea.
 

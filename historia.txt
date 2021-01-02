@@ -1,9 +1,11 @@
 Esto es una nueva forma de empezar y comprender Git.
 
-Esta es mi segunda linea.
+Esta es mi segunda linea y la he querido modificar en mi sexta linea.
 
 Esta es mi tercera linea y vamos viendo diferencias.
 
 Esta en mi cuarta linea
 
 esta es mi quinta linea
+
+esta es mi sexta linea
